@@ -4,10 +4,14 @@
 
 Установка репозитория: .
 
+http method
 ```sh
-git clone https://github.com/prog-me/c-v1.git tyz
+git clone https://github.com/prog-me/c-v1.git .
 ```
-
+ssh method
+```sh
+git clone git@github.com:prog-me/c-v1.git .
+```
 
 # class-work - учебные проекты:
 
